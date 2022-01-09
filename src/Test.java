@@ -40,7 +40,7 @@ public class Test {
             count++;
         }
         System.out.println(count);
-
+        System.out.println("인텔리제이 테스트");
     }
 
 }
